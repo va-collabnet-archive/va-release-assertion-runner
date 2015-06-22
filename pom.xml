@@ -3,11 +3,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<scm>
+	<!--scm>
 		<connection>scm:svn:https://csfe.aceworkspace.net/svn/repos/va-jif-wb-bundle/VA-JIF-release-assertion-runner/trunk</connection>
 		<developerConnection>scm:svn:https://csfe.aceworkspace.net/svn/repos/va-jif-wb-bundle/VA-JIF-release-assertion-runner/trunk</developerConnection>
 		<url>https://csfe.aceworkspace.net/svn/repos/va-jif-wb-bundle/VA-JIF-release-assertion-runner/trunk</url>
-	</scm>
+	</scm-->
 	
 	<packaging>pom</packaging>
 	<groupId>org.ihtsdo.release.assertion</groupId>
