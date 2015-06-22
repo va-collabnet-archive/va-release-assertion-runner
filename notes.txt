@@ -1,0 +1,9 @@
+build-resources -           works
+load-previous-release -     works - loads data
+load-current-release -      works - loads data
+execute-scripts -           works - works, does checks
+run-report-builder -        works - builds Report.xls (and Report.xls.csv)
+ra-rep -                    works - builds the same report as 'run-report-builder', but publishes it as a site.
+archive-results -           works - makes a zip file of the tests that were run, and the Report.xls (now that I fixed it)
+
+run-release-file-qa -       works - but not useful at the moment, needs all new XML manifests for the new, proper RF2 file formats
