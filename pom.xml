@@ -32,7 +32,7 @@
 		<project.ReleaseQAReportFolder>${project.build.directory}/generated-sources</project.ReleaseQAReportFolder>
 		<project.changesetTransformation>${project.build.directory}/generated-resources</project.changesetTransformation>
 		<project.textTransformation>${project.build.directory}/generated-resources</project.textTransformation>
-		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.30</org.ihtsdo.wb-toolkit.version>
+		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.33</org.ihtsdo.wb-toolkit.version>
 
 
 		<project.PathName>JIF Terminology Workbench development path</project.PathName>
